@@ -37,8 +37,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     <li>Normas estándares en comunicaciones</li>
                     <li>Introducción a la transmisión de datos: señales, ancho de banda, velocidad</li>
                 </ul>
-                <p><strong>Recursos:</strong></p>
-                <a href="#" class="btn-recurso">Descargar Apunte</a>
+                
                 
             `,
             unidad2: `
@@ -60,8 +59,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     </li>
                     <li>Enlaces serie sincronos: características y funcionamiento</li>
                 </ul>
-                <p><strong>Recursos:</strong></p>
-                <a href="#" class="btn-recurso">Descargar Apunte</a>
+                
                 
             `,
             unidad3: `
@@ -82,8 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     </ul>
                     </li>
                 </ul>
-                <p><strong>Recursos:</strong></p>
-                <a href="#" class="btn-recurso">Descargar Apunte</a>
+               
             
             `,
             unidad4: `
@@ -106,8 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     <li>Enlaces síncronos: integración de métodos de detección</li>
                     
                 </ul>
-                <p><strong>Recursos:</strong></p>
-                <a href="#" class="btn-recurso">Descargar Apunte</a>
+               
             
             `
         };
@@ -243,4 +239,5 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Inicializar valores de sensores
     actualizarSensores();
+
 });
